@@ -6,7 +6,7 @@
 
 ![js](https://user-images.githubusercontent.com/108986498/236246171-24eb77f5-c1ab-4276-b1bb-80bfd27ac503.gif)
 
-Soy una persona dedicada, aplicada y comprometida por mi trabajo. Cursé la carrera de Full Stack MERN y Mobile Apps en Mindhub donde aprendí a sobre varias tecnologías, pero lo que más destaco de mi paso por institución es el trabajo en equipo, compañerismo y horas de esfuerzo para alcanzar los objetivos tanto generales como personales
+Soy una persona dedicada, aplicada y comprometida por mi trabajo. Cursé la carrera de Full Stack MERN y Mobile Apps en Mindhub donde aprendí a sobre varias tecnologías, pero lo que más destaco de mi paso por institución es el trabajo en equipo, compañerismo y horas de esfuerzo para alcanzar los objetivos tanto generales como personales.
 
 
 

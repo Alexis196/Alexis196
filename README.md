@@ -1,5 +1,5 @@
 # Hola! Soy Alexis ✨👋 
-##Desarrollador Full Stack MERN - Mobile Apps
+## Desarrollador Full Stack MERN - Mobile Apps
 
 ![js](https://user-images.githubusercontent.com/108986498/236246171-24eb77f5-c1ab-4276-b1bb-80bfd27ac503.gif)
 

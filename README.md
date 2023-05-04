@@ -1,4 +1,7 @@
-# Hola! Soy Alexis ✨👋 
+<div align="center">
+<h1 align="center">Hola! Soy Alexis ✨👋</h1>
+</div>
+
 ## Desarrollador Full Stack MERN - Mobile Apps
 
 ![js](https://user-images.githubusercontent.com/108986498/236246171-24eb77f5-c1ab-4276-b1bb-80bfd27ac503.gif)

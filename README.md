@@ -23,7 +23,7 @@ Soy una persona dedicada, aplicada y comprometida con mi trabajo. Cursé la carr
 <a href="mailto:Ronaldofranco196@gmail.com" target="blank">
     <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-2981844-2476484.png" alt="logoGmail" height="40" width="40" />
 </a>
-<a href="https://drive.google.com/file/d/1sHYZmhQTPKt0OCCXznOlamcIxnjAFFUj/view?usp=share_link" target="blank">
+<a href="[https://drive.google.com/file/d/1sHYZmhQTPKt0OCCXznOlamcIxnjAFFUj/view?usp=share_link](https://drive.google.com/file/d/1Kp4edLBHHuVnlHOwygiLD-KKp13OjltD/view?usp=sharing)" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/608/608986.png" alt="CV" height="40" width="40" />
 </a>
 </p>
